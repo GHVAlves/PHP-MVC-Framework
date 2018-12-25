@@ -9,7 +9,7 @@ namespace Controllers {
 
 		public function index () {
 
-			$this->view('Index1');
+			$this->view('Index');
 			
 		}
 
